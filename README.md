@@ -8,7 +8,7 @@ Pré-requisitos
 
 ## Passos para Compilação
 - Clone o repositório:
-git clone https://github.com/usuario/projeto-astronautas
+git clone https://github.com/walteraf/projeto-astronautas
 cd projeto-astronautas/astronautas
 
 - Compile o projeto:
